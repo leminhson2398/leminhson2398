@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Son from Vietnam. It's my pleasure to meet you.
 
 <!--
 **leminhson2398/leminhson2398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
