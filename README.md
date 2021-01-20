@@ -1,12 +1,9 @@
 ### Hi there 👋
 I'm Son from Vietnam. It's my pleasure to meet you.
-
-- 🔭 I’m currently working on <a href="https://github.com/leminhson2398/graph-maker-front-end">chart maker</a>
-Please take a look at it first
-
 <!--
 **leminhson2398/leminhson2398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🔭 I’m currently working on <a href="https://github.com/leminhson2398/graph-maker-front-end">chart maker</a>
+Please take a look at it first
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
